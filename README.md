@@ -1,8 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
-
+### Reg No: 212223240029
+### Name: Dharshni V M
+### Date:
 
 # AIM:
 To develop the Online Examination System using Star UML.
@@ -37,11 +36,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+<img width="951" height="857" alt="image" src="https://github.com/user-attachments/assets/950a7b61-c40b-45c8-b968-32e453934078" />
 
 # CLASS DIAGRAM
 
@@ -57,6 +52,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="848" height="557" alt="image" src="https://github.com/user-attachments/assets/9d4b9517-8a6e-4731-8db0-023cda8302b6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,8 +61,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="885" height="674" alt="image" src="https://github.com/user-attachments/assets/6d8d87e6-2ba6-4534-a427-d595e971080f" />
 
 # PACKAGE DIAGRAM:
 
@@ -76,12 +71,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="813" height="468" alt="image" src="https://github.com/user-attachments/assets/fa90e97c-9768-462f-9b9f-3a18a14243be" />
 
 # ACTIVITY DIAGRAM:
 
@@ -95,9 +85,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="400" height="871" alt="image" src="https://github.com/user-attachments/assets/40a9cee6-4070-4898-b4e1-fdfd928b65b7" />
 
 # SEQUENCE DIAGRAM
 
@@ -116,12 +104,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
-
+<img width="870" height="693" alt="image" src="https://github.com/user-attachments/assets/efc7c43f-c079-4984-be56-d746c1478398" />
 
 # RESULT
-
-Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
-
+Thus, the project to develop Online Examination system was developed using Star UML Software is done successfully.
